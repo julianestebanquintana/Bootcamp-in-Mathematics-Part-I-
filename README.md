@@ -4,8 +4,8 @@ Introduction to Algebra, Calculus, and Linear Systems
 ## 📚 Course Structure
 
 ### 1. Algebra, Notation, and Equations
-* 📄 **Lecture Slides:** *[Coming Soon]*
-* 🐍 **Python Code:** *[Coming Soon]*
+* 📄 **Lecture Slides:** *Slides_Algebra* 
+* 🐍 **Python Code:** *Colab_Algebra*
 
 ### 2. Functions and Single-Variable Differential Calculus
 * 📄 **Lecture Slides:** *[Coming Soon]*
