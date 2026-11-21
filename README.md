@@ -8,8 +8,8 @@ Introduction to Algebra, Calculus, and Linear Systems
 * 🐍 **Python Code:** *Colab_Algebra*
 
 ### 2. Functions and Single-Variable Differential Calculus
-* 📄 **Lecture Slides:** *[Coming Soon]*
-* 🐍 **Python Code:** *[Coming Soon]*
+* 📄 **Lecture Slides:** *Slides_Functions*
+* 🐍 **Python Code:** *Colab_Functions*
 
 ### 3. Single-Variable Integral Calculus
 * 📄 **Lecture Slides:** *[Coming Soon]*
